@@ -16,5 +16,11 @@ html {
 }
 
 body {
-    font-family:'Roboto', Tahoma, Geneva, Verdana, sans-serif
+  font-family: 'Roboto', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header,
+.hero,
+footer {
+  background-color: #1f2937;
 }
