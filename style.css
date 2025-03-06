@@ -89,6 +89,10 @@ body {
   color: #F64D38;
 }
 
+.thin {
+  font-weight: 300;
+}
+
 .gallery {
   margin: 50px 0 100px;
   padding: 0 15%;
@@ -100,6 +104,11 @@ body {
   font-weight: 900;
   color: #1f2937;
   text-align: center;
+}
+
+.gallery p {
+  font-size: 24px;
+  font-weight: bold;
 }
 
 .gallery-card-container {
