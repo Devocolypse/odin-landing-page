@@ -54,7 +54,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 32px;
+  gap: 48px;
   padding: 100px 15%;
 }
 
@@ -62,22 +62,31 @@ body {
   font-size: 48px;
   font-weight: 900;
   color: #f9faf8;
+  margin-bottom: 16px;
 }
 
 .hero p {
   font-size: 18px;
   color: #e5e7eb;
-  margin-bottom: 8px;
+  margin-bottom: 16px;
 }
 
 .hero img {
   border-radius: 8px;
-  min-width: 600px;
-  flex: 1;
+  min-width: 500px;
+  flex: 2;
 }
 
 .hero-text {
   flex: 1;
+}
+
+.blue {
+  color: #3882f6;
+}
+
+.red {
+  color: #F64D38;
 }
 
 .gallery {
