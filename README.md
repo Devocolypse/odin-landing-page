@@ -12,7 +12,7 @@ A simple project showcasing one of my favorite games: **God of War (2018)** and 
   2. recreate the dummy content, paying no heed to design other than grouping certain elements into classes I knew I would use later
   3. recreate the basic colors of each section
   4. work section by section and recreate the spacing, layout, and various styles
-  5. review both content and design to make minor alterations / fixes to better reflect the template (commit 4f7cf30)
+  5. review both content and design to make minor alterations / fixes to better reflect the template (4f7cf30b3786a7bee77d5cd64819c6b50eea0fbf)
   6. go through section by section *again*, this time adding GoW content and replacing dummy content
   7. final check to make sure everything looks
 
