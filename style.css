@@ -123,6 +123,12 @@ footer {
 
 .cta {
   background-color: #3882f6;
+  width: 60%;
+  margin: 100px auto;
+  display: flex;
+  padding: 100px;
+  border-radius: 16px;
+  justify-content: space-between;
 }
 
 .cta-title {
