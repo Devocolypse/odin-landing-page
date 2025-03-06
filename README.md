@@ -12,7 +12,7 @@ A simple project showcasing one of my favorite games: **God of War (2018)** and 
   2. recreate the dummy content, paying no heed to design other than grouping certain elements into classes I knew I would use later
   3. recreate the basic colors of each section
   4. work section by section and recreate the spacing, layout, and various styles
-  5. review both content and design to make minor alterations / fixes to better reflect the template (4f7cf30b3786a7bee77d5cd64819c6b50eea0fbf)
+  5. review both content and design to make minor alterations / fixes to better reflect the template ([4f7cf30][4])
   6. go through section by section *again*, this time adding GoW content and replacing dummy content
   7. final check to make sure everything looks
 
@@ -23,3 +23,4 @@ All rights to the images used in the hero section and the gallery section belong
 [1]: https://www.theodinproject.com/lessons/foundations-landing-page
 [2]: https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png
 [3]: https://cdn.statically.io/gh/TheOdinProject/curriculum/a38403e7d81cc8305af16ac48985cfbde87834d6/foundations/html_css/flexbox/project-landing-page/imgs/02.png
+[4]: https://github.com/Devocolypse/odin-landing-page/commit/4f7cf30b3786a7bee77d5cd64819c6b50eea0fbf
