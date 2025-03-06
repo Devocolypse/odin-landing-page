@@ -52,6 +52,7 @@ body {
 
 .hero {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   gap: 32px;
   padding: 100px 15%;
@@ -67,6 +68,16 @@ body {
   font-size: 18px;
   color: #e5e7eb;
   margin-bottom: 8px;
+}
+
+.hero img {
+  border-radius: 8px;
+  min-width: 600px;
+  flex: 1;
+}
+
+.hero-text {
+  flex: 1;
 }
 
 .gallery {
