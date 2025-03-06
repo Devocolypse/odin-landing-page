@@ -69,6 +69,33 @@ a {
   margin-bottom: 8px;
 }
 
+.gallery {
+  margin: 50px 0 100px;
+  padding: 0 15%;
+}
+
+.gallery h1 {
+  margin-bottom: 50px;
+  font-size: 36px;
+  font-weight: 900;
+  color: #1f2937;
+  text-align: center;
+}
+
+.gallery-card-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.gallery-card {
+  text-align: center;
+}
+
+.gallery-card img {
+  margin-bottom: 8px;
+}
+
 .header,
 .hero,
 footer {
