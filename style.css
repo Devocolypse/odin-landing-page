@@ -79,6 +79,7 @@ body {
 
 .hero-text {
   flex: 1;
+  min-width: 320px;
 }
 
 .blue {
