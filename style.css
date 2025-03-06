@@ -28,7 +28,7 @@ body {
   padding: 16px 15%;
   
   /* places a cool little shadow beneath the header. z-index or position: relative; makes it show */
-  box-shadow: 0 0 8px #3882f6;
+  box-shadow: 0 0 8px #e5e7eb;
   z-index: 1;
 }
 
@@ -38,13 +38,13 @@ body {
   color: #f9faf8;
 }
 
-ul {
+.header ul {
   list-style: none;
   display: flex;
   gap: 16px;
 }
 
-a {
+.header a {
   text-decoration: none;
   font-size: 18px;
   color: #e5e7eb;
@@ -154,4 +154,15 @@ button {
   border-radius: 8px;
   font-size: 18px;
   height: 36px;
+}
+
+footer {
+  padding: 36px 0;
+  text-align: center;
+  color: #f9faf8;
+}
+
+footer a {
+  text-decoration: none;
+  color: #3882f6;
 }
