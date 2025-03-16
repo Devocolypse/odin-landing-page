@@ -1,6 +1,6 @@
 # God of War Fan Page
 
-A simple project showcasing one of my favorite games: **God of War (2018)** and **God of War: Ragnarök**.
+A simple project showcasing two of my favorite games: **God of War (2018)** and **God of War: Ragnarök**.
 
 ![Website Preview](./preview.gif)
 
