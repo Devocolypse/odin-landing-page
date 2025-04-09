@@ -14,7 +14,7 @@ A simple project showcasing two of my favorite games: **God of War (2018)** and 
   4. work section by section and recreate the spacing, layout, and various styles
   5. review both content and design to make minor alterations / fixes to better reflect the template ([4f7cf30][4])
   6. go through section by section *again*, this time adding GoW content and replacing dummy content
-  7. final check to make sure everything looks
+  7. final check to make sure everything looks good
 
 ## Credits / Attributes
 
